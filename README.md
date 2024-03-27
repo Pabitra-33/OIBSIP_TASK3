@@ -6,5 +6,5 @@ ii.) Withdraw: user can withdraw a amount from his account that much of money ne
 iii.) Check Balance: user can check how much amount present in his account. <br>
 iv.) Transfer: a user can tranfer sort of money from his account to another account by giving the other user's id.<br>
 v.)View Transaction: user can see transaction history of his account.<br>
-vi.)Exit 
+vi.)Exit <br>
 Implementing on Visual Studio Code.
