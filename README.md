@@ -1,7 +1,7 @@
 # OIBSIP_TASK3 
-Developed a ATM Interface project by using java programming language.<br>
+Developed a ATM🏧 Interface project by using java programming language.<br>
 This is a simple ATM interface program where users can deposit, withdraw, or check their balance.<br>
-It includes exception handling for cases where the user tries to withdraw more money than is available in the account.which first ask the user to enter his id and pin.
+It includes exception handling for cases where the user tries to withdraw more money than is available in the account, then it shows insufficient money💰, which first ask the user to enter his id and pin.
 After authenticating that it is a valid user the system allows that user to use the following functionalities :<br>
 i.) Deposit : user can deposit any amount in his account. <br>
 ii.) Withdraw: user can withdraw a amount from his account that much of money need to be present.<br>
